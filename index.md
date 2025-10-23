@@ -1,6 +1,9 @@
 # 💻 Teoría de la Programación  
 
-## 🧭 Portafolio Digital de Aprendizaje  
+## 🧭 Portafolio Digital de Aprendizaje
+**Nombre:** Michael Carbay. 
+**Asignatura:** Teoria de la programacion. 
+**Periodo:** Septiembre 2025-Febrero 2026. 
 
 ### 🧩 Unidad 1 Fundamentos de la Programación  
 Exploración de conceptos básicos: algoritmos, estructuras de control y lógica computacional.  
