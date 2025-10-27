@@ -27,4 +27,4 @@ pseudocódigoTarea
 
 ### Del diseño del algoritmo con estructuras secuenciales a la construcción del programa
 
-
+[Regresar al indice](index.md)
