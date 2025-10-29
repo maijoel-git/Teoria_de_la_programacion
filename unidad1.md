@@ -2,10 +2,11 @@
 ## Contenidos de la unidad
 ### Algoritmos, pseudocódigo, diagrama de flujo.
 
-[https://drive.google.com/drive/folders/1JoA0Jgj8KRIIu1V55D3wOOm87LNYo8a3]
+https://drive.google.com/drive/folders/1JoA0Jgj8KRIIu1V55D3wOOm87LNYo8a3
 
 ### programacion por bloques.
 
+https://drive.google.com/file/d/1u_cGxEtNZQ18G0RxiSzCqLaK6RcWUFwI/view
 
 ### Ejemplos de algoritmos con estructuras lineales/secuenciales.
 
