@@ -10,10 +10,13 @@ https://drive.google.com/drive/folders/1JoA0Jgj8KRIIu1V55D3wOOm87LNYo8a3
 unos ejemplos que tuvimos en esas paginas por ejemplo:
 Blockly Games. uan pagina que usamos para aprender de manera de jugar como puzzles, mazes, ect un ejemplo:
 en puzzles con codigo de bloques damos las caracteristica del animal en este caso:
+
 <img width="456" height="233" alt="image" src="https://github.com/user-attachments/assets/7bd0f277-01fa-41e6-97cc-4baaa5a86775" />
 
+en la opcion de maze, tenemos la opcionde usar codigo de bloques para mover un objeto a un punto especifico:
 
-https://drive.google.com/file/d/1u_cGxEtNZQ18G0RxiSzCqLaK6RcWUFwI/view
+<img width="451" height="219" alt="image" src="https://github.com/user-attachments/assets/2cc5a27c-ec00-421c-8ea6-6e0b81d40818" />
+
 
 ### Ejemplos de algoritmos con estructuras lineales/secuenciales.
 
