@@ -1,9 +1,17 @@
 # Unidad 1
 ## Contenidos de la unidad
 ### Algoritmos, pseudocódigo, diagrama de flujo.
-Todas las clases que tuvimos los pdf que tenemos actualmente para reforsar  y estudiar para el examen
+El algoritomo es una secuencia de pasos que estan logicamente ordenados y
+son finitos osea que tiene fin, su funcion en resolver un problema determinado.
 
-https://drive.google.com/drive/folders/1JoA0Jgj8KRIIu1V55D3wOOm87LNYo8a3
+**pseudocodigo**
+los pseudocodigo son instruccines escritas las cuales estan basados en el algorito que se hace
+con el Pseudocodigo a la ves que aqui definimos el programa para resolver el problema, por ejemplo: 
+en este programa con pseudocodigo nos pide calcular el IMC(indice de masa corporal), con la formula que ya esta preterminada hacemos el pseudocodigo:
+
+<img width="536" height="298" alt="image" src="https://github.com/user-attachments/assets/421a1ed3-7279-45c6-a6b4-bf83bb2c6021" />
+
+**Diagrama de flujo**
 
 ### programacion por bloques.
 
