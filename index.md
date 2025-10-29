@@ -9,7 +9,7 @@
 **Periodo:** Septiembre 2025-Febrero 2026. 
 
 ### 🧩 Unidad 1 Fundamentos de la Programación  
-Exploración de conceptos básicos: algoritmos, estructuras de control y lógica computacional.  
+Conceptos fundamentales de algoritmo. 
 
 [Ir a la Unidad 1](unidad1.md)
 
