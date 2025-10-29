@@ -2,6 +2,7 @@
 ## Contenidos de la unidad
 ### Algoritmos, pseudocódigo, diagrama de flujo.
 
+
 https://drive.google.com/drive/folders/1JoA0Jgj8KRIIu1V55D3wOOm87LNYo8a3
 
 ### programacion por bloques.
