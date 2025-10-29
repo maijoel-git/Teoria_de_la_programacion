@@ -1,15 +1,18 @@
 # Unidad 1
 ## Contenidos de la unidad
 ### Algoritmos, pseudocódigo, diagrama de flujo.
-
+Todas las clases que tuvimos los pdf que tenemos actualmente para reforsar  y estudiar para el examen
 
 https://drive.google.com/drive/folders/1JoA0Jgj8KRIIu1V55D3wOOm87LNYo8a3
 
 ### programacion por bloques.
 
+unos ejemplos que tuvimos en esas paginas por ejemplo
+
 https://drive.google.com/file/d/1u_cGxEtNZQ18G0RxiSzCqLaK6RcWUFwI/view
 
 ### Ejemplos de algoritmos con estructuras lineales/secuenciales.
+
 
 https://drive.google.com/drive/folders/1kO3euFl43G5oUswvaaTPqagWODtKgyiF
 
