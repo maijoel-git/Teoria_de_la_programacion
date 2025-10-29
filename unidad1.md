@@ -23,9 +23,15 @@ aqui use uan de principiante. En esta parte debemos igual mover al objeto y debe
 <img width="411" height="193" alt="image" src="https://github.com/user-attachments/assets/e7096c20-e7f1-4e70-81a7-d020feb8eb6c" />
 
 ### Ejemplos de algoritmos con estructuras lineales/secuenciales.
+En este programa su funcion es al ingresar un numero de pies, el programa transforma essa cantidad a yardas,
+pulgadas, centimetros y metros:
 
+<img width="438" height="366" alt="image" src="https://github.com/user-attachments/assets/1df44323-afb4-407f-b0b0-b2e15cfbe11c" />
 
-https://drive.google.com/drive/folders/1kO3euFl43G5oUswvaaTPqagWODtKgyiF
+En este segundo programa ahora al ingresar un numero de metros los tranformamos a kilometros,
+centimetros y milimetros:
+
+<img width="575" height="377" alt="image" src="https://github.com/user-attachments/assets/74d5fb22-7732-4232-be61-b63fe149de6f" />
 
 ### Principales dificultades en la aplicación de los contenidos.
 
