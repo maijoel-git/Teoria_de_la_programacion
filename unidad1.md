@@ -10,9 +10,10 @@ https://drive.google.com/file/d/1u_cGxEtNZQ18G0RxiSzCqLaK6RcWUFwI/view
 
 ### Ejemplos de algoritmos con estructuras lineales/secuenciales.
 
-
+https://drive.google.com/drive/folders/1kO3euFl43G5oUswvaaTPqagWODtKgyiF
 
 ### Principales dificultades en la aplicación de los contenidos.
+
 
 
 ### Reflexión crítica de los aprendizajes de la unidad.
