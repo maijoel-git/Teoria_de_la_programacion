@@ -14,9 +14,19 @@ https://drive.google.com/drive/folders/1kO3euFl43G5oUswvaaTPqagWODtKgyiF
 
 ### Principales dificultades en la aplicación de los contenidos.
 
-
+Las principales dificultades que tuve fueron muy pocas ya que si
+entendí las clases a la perfección lo que me complique fue solo en el
+programa de visual code al inicio ya que nunca lo use y era novato, pero
+basándome en otros programas que ya usaba pude entenderlo bien, en
+la compilación que se deba hacer me olvidaba el comando y a veces no
+se me compilaba bien el programa y no podía ejecutarlo, pero eso se
+resolvió a seguir haciendo las actividades.
 
 ### Reflexión crítica de los aprendizajes de la unidad.
+
+en lo que opta a las tareas sere mas puntual ycque sea mejor las tareas que se envian ya que
+la mayoria lo hago pero no de una vista agradabe asi que en ese 
+punto mejorare a la ves en mi puntualidad del parcial
 
 ## Tareas entregadas
 ### Herramientas de algoritmos (pseudocódigo y diagramas de flujo).
