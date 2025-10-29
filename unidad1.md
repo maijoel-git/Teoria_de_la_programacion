@@ -17,6 +17,10 @@ en la opcion de maze, tenemos la opcionde usar codigo de bloques para mover un o
 
 <img width="451" height="219" alt="image" src="https://github.com/user-attachments/assets/2cc5a27c-ec00-421c-8ea6-6e0b81d40818" />
 
+Tambien usamos la pagina llamada "pilas bloques" algo mas animado con muchos novieles como principinate, intermedio y avansado:
+aqui use uan de principiante. En esta parte debemos igual mover al objeto y debemos cumplir el objetivo:
+
+<img width="411" height="193" alt="image" src="https://github.com/user-attachments/assets/e7096c20-e7f1-4e70-81a7-d020feb8eb6c" />
 
 ### Ejemplos de algoritmos con estructuras lineales/secuenciales.
 
