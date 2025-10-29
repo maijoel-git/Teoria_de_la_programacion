@@ -7,7 +7,11 @@ https://drive.google.com/drive/folders/1JoA0Jgj8KRIIu1V55D3wOOm87LNYo8a3
 
 ### programacion por bloques.
 
-unos ejemplos que tuvimos en esas paginas por ejemplo
+unos ejemplos que tuvimos en esas paginas por ejemplo:
+Blockly Games. uan pagina que usamos para aprender de manera de jugar como puzzles, mazes, ect un ejemplo:
+en puzzles con codigo de bloques damos las caracteristica del animal en este caso:
+<img width="456" height="233" alt="image" src="https://github.com/user-attachments/assets/7bd0f277-01fa-41e6-97cc-4baaa5a86775" />
+
 
 https://drive.google.com/file/d/1u_cGxEtNZQ18G0RxiSzCqLaK6RcWUFwI/view
 
