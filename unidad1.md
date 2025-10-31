@@ -7,13 +7,15 @@ son finitos osea que tiene fin, su funcion en resolver un problema determinado.
 **pseudocodigo**
 los pseudocodigo son instruccines escritas las cuales estan basados en el algorito que se hace
 con el Pseudocodigo a la ves que aqui definimos el programa para resolver el problema, por ejemplo: 
-en este programa con pseudocodigo nos pide calcular el IMC(indice de masa corporal), con la formula que ya esta preterminada hacemos el pseudocodigo:
+en este programa nos pide calcular la distancia entre los puntos P1 y P2. ingresamos los puntos, x1,x2,y1,y2,
+y hacemos el proceso para sacar la pendiente.
 
-<img width="536" height="298" alt="image" src="https://github.com/user-attachments/assets/421a1ed3-7279-45c6-a6b4-bf83bb2c6021" />
+<img width="576" height="440" alt="image" src="https://github.com/user-attachments/assets/7fb13c7a-07ef-4312-b93a-c40e499e0322" />
 
 **Diagrama de flujo**
 Los diagramas de flujo son simbolos que describen de forma de una instruccion de los pasos del Pseudocodigo
-el cual describe resumidamente el codigo, desde como inicia, las entradas 
+el cual describe resumidamente el codigo, desde como inicia, las entradas, los procesos, y salidas.
+como en el ejemplo anterios
 
 
 ### programacion por bloques.
