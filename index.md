@@ -1,4 +1,4 @@
-# UNIVERSIDAD NACINAL DE LOJA
+# UNIVERSIDAD NACIONAL DE LOJA
 ## Carrera: Computacion 
 
 # 💻 Teoría de la Programación  
