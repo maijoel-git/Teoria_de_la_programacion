@@ -10,7 +10,8 @@ con el Pseudocodigo a la ves que aqui definimos el programa para resolver el pro
 en este programa nos pide calcular la distancia entre los puntos P1 y P2. ingresamos los puntos, x1,x2,y1,y2,
 y hacemos el proceso para sacar la pendiente.
 
-<img width="576" height="440" alt="image" src="https://github.com/user-attachments/assets/7fb13c7a-07ef-4312-b93a-c40e499e0322" />
+<img width="364" height="360" alt="image" src="https://github.com/user-attachments/assets/37c0ebcb-21aa-44ff-b0ed-1b04a0595e3e" />
+
 
 **Diagrama de flujo**
 Los diagramas de flujo son simbolos que describen de forma de una instruccion de los pasos del Pseudocodigo
