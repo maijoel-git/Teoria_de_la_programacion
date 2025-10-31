@@ -12,6 +12,9 @@ en este programa con pseudocodigo nos pide calcular el IMC(indice de masa corpor
 <img width="536" height="298" alt="image" src="https://github.com/user-attachments/assets/421a1ed3-7279-45c6-a6b4-bf83bb2c6021" />
 
 **Diagrama de flujo**
+Los diagramas de flujo son simbolos que describen de forma de una instruccion de los pasos del Pseudocodigo
+el cual describe resumidamente el codigo, desde como inicia, las entradas 
+
 
 ### programacion por bloques.
 
