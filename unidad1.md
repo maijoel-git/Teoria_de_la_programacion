@@ -16,8 +16,10 @@ y hacemos el proceso para sacar la pendiente.
 **Diagrama de flujo**
 Los diagramas de flujo son simbolos que describen de forma de una instruccion de los pasos del Pseudocodigo
 el cual describe resumidamente el codigo, desde como inicia, las entradas, los procesos, y salidas.
-como en el ejemplo anterios
+como en el ejemplo anterior de pseudocodigo hacemos el diagrama de flujo se ve el las entradas que son x1,x2,y1,y2
+el proceso requerdio para sacar el dato de salida que es el resultado del proceso el cual es la pendiente.
 
+<img width="263" height="494" alt="image" src="https://github.com/user-attachments/assets/cf49e4eb-ea4a-4558-b900-1f1c8ecdfc8e" />
 
 ### programacion por bloques.
 
