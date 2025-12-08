@@ -67,6 +67,10 @@ para que el programa se repita.
 
 <img width="428" height="497" alt="image" src="https://github.com/user-attachments/assets/cf1e71f8-5195-4de4-9f0d-10a3a4123bb7" />
 
+
+## Ejercicio combinando estructura condicional y repetitiva
+
+
 ## Tareas entregadas
 
 **Estructuras algorítmicas de control** 
