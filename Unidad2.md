@@ -55,12 +55,17 @@ cuando no se sabe cuantas veces se debe repetir el programa.
 Primero ejecuta y despues hace la condicion hasta que la condicion se cumpla, 
 el usuario tendra que ingresar obligatoriamente en este ciclo.
 
+<img width="334" height="387" alt="image" src="https://github.com/user-attachments/assets/9a281410-be91-40da-8473-ea9cc4463ff0" />
+
+<img width="407" height="494" alt="image" src="https://github.com/user-attachments/assets/0f808769-3c53-472e-bde1-5e48fe722421" />
+
 **Ciclo Para**
 Este se lo usa cuando ya se sabe cuando termina el ciclo y se usa un contador obligatorio
 para que el programa se repita.
 
-<img width="334" height="387" alt="image" src="https://github.com/user-attachments/assets/9a281410-be91-40da-8473-ea9cc4463ff0" />
+<img width="369" height="448" alt="image" src="https://github.com/user-attachments/assets/32914149-b2a6-45a1-acd6-5df6a857d996" />
 
+<img width="428" height="497" alt="image" src="https://github.com/user-attachments/assets/cf1e71f8-5195-4de4-9f0d-10a3a4123bb7" />
 
 ## Tareas entregadas
 
