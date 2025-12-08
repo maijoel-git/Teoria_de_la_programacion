@@ -21,4 +21,7 @@ de entrada, a la vez que esta estructura solo puede leer los siguientes parámet
 Booleanos, char (o cadena), tipos numéricos y enumeración.
 Así mismo algo a recalcar es que está conformado por etiquetas que permiten comprobar
 cada caso y si ninguno se comprueba dará un default [2].
+
 ##Tareas entregadas
+**Estructuras algorítmicas de control**
+https://drive.google.com/file/d/1QYZb7D6RPj99vekDE8gLczonAmVUhip4/view?usp=drive_link 
