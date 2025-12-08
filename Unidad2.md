@@ -33,7 +33,7 @@ cada caso y si ninguno se comprueba dará un default [2].
 <img width="524" height="551" alt="image" src="https://github.com/user-attachments/assets/ac71fb89-6a6e-4f96-af20-95d7179a4c71" />
 <img width="512" height="217" alt="image" src="https://github.com/user-attachments/assets/d8c3538c-f611-4ff4-b4de-139cd0773576" />
 
-
+<img width="692" height="224" alt="image" src="https://github.com/user-attachments/assets/e3d93559-df17-4127-8220-d01ad89b2449" />
 
 ## Tareas entregadas
 
