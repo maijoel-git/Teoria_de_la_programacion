@@ -24,7 +24,7 @@ cada caso y si ninguno se comprueba dará un default [2].
 
 ## Tareas entregadas
 
-**Estructuras algorítmicas de control**
+**Estructuras algorítmicas de control** 
 https://drive.google.com/file/d/1WrXCgcP6PiYKXy_RlUkRLVPUpEwloZpR/view?usp=sharing
 
 **Aplicación de estructuras repetitivas en la resolución de problemas**
