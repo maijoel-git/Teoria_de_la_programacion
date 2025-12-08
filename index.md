@@ -13,10 +13,10 @@ Conceptos fundamentales de algoritmo.
 
 [Ir a la Unidad 1](unidad1.md)
 
-[Ir a la Unidad 2](Unidad2.md)
+
 ### ⚙️ Unidad 2 Estructuras y Modularidad  
 Diseño de programas con funciones, procedimientos y modularización del código.  
-
+[Ir a la Unidad 2](Unidad2.md)
 ### 🧠 Unidad 3 Paradigmas y Aplicaciones  
 Análisis de distintos paradigmas de programación y desarrollo de proyectos prácticos.
 
