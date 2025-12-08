@@ -9,12 +9,19 @@ y siga diferentes caminos. Los tipos de Estructuras condicionales son: [1].
 Esta estructura recibe un parámetro el cual se ejecutará dependiendo si el valor es
 verdadero, si este se cumple ejecutara el bloque de código que esta en ejecución, y si no
 cumple se salta el bloque de código [2].
+
 <img width="627" height="389" alt="image" src="https://github.com/user-attachments/assets/fb7216dd-2993-4a48-82b6-ad3549b757b7" />
+
+<img width="397" height="497" alt="image" src="https://github.com/user-attachments/assets/aaf0cb7d-374c-42c6-8471-5d3f3d200097" />
 
 **Estructura condicional doble:**
 Esta estructura recibe un parámetro el cual le devuelve a un valor booleano, ya que es una
 expresión de comparación, si la condición se cumple ira a la derecha ejecutando la parte
 verdadera, y si no se cumple ira a la izquierda y se ejecutan la parte falsa [2].
+
+<img width="300" height="283" alt="image" src="https://github.com/user-attachments/assets/a83b8c92-fe6b-4454-bfdc-3ef6a8e39b05" />
+
+<img width="727" height="506" alt="image" src="https://github.com/user-attachments/assets/bbe454ce-611a-4bf8-9ffb-5ec29387c45e" />
 
 Estructura Condicional Múltiple:
 Esta estructura se encarga de evaluar el dato que ingresa después de un procedimiento o,
