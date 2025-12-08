@@ -22,6 +22,10 @@ Booleanos, char (o cadena), tipos numéricos y enumeración.
 Así mismo algo a recalcar es que está conformado por etiquetas que permiten comprobar
 cada caso y si ninguno se comprueba dará un default [2].
 
-##Tareas entregadas
+## Tareas entregadas
+
 **Estructuras algorítmicas de control**
-https://drive.google.com/file/d/1QYZb7D6RPj99vekDE8gLczonAmVUhip4/view?usp=drive_link 
+https://drive.google.com/drive/folders/1RtUTfs1ku2SJFIH0OxwSCvfMlYWfcOvR 
+
+**Aplicación de estructuras repetitivas en la resolución de problemas**
+https://drive.google.com/drive/folders/1RtUTfs1ku2SJFIH0OxwSCvfMlYWfcOvR
