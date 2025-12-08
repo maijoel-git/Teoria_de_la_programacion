@@ -30,6 +30,10 @@ Booleanos, char (o cadena), tipos numéricos y enumeración.
 Así mismo algo a recalcar es que está conformado por etiquetas que permiten comprobar
 cada caso y si ninguno se comprueba dará un default [2].
 
+<img width="524" height="551" alt="image" src="https://github.com/user-attachments/assets/ac71fb89-6a6e-4f96-af20-95d7179a4c71" />
+<img width="283" height="231" alt="image" src="https://github.com/user-attachments/assets/bff0be33-3f11-4c2a-874e-b1d4d4a3804e" />
+
+
 ## Tareas entregadas
 
 **Estructuras algorítmicas de control** 
