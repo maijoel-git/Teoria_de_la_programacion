@@ -39,6 +39,29 @@ se comprueba dará un default [1].
 
 
 **Estructuras repetitivas**
+Las estructuras repetitivas son esenciales en la programación para ejecutar 
+repetidamente una o varias instrucciones hasta que se cumpla una condición. 
+
+**Ciclo Mientras**
+Verifica si la condicion antes de ejecutar el proceso de adentro del bucle,
+si la condicion es falsa el codigo no se ejecutara a la ves que se lo usa 
+cuando no se sabe cuantas veces se debe repetir el programa.
+
+<img width="360" height="443" alt="image" src="https://github.com/user-attachments/assets/bd53b258-a645-4cd0-81b9-f51770fbf1a5" />
+
+<img width="361" height="500" alt="image" src="https://github.com/user-attachments/assets/ad02dd8c-39c8-4a5b-8500-b75d389ac745" />
+
+**Ciclo Hacer Mientras**
+Primero ejecuta y despues hace la condicion hasta que la condicion se cumpla, 
+el usuario tendra que ingresar obligatoriamente en este ciclo.
+
+**Ciclo Para**
+Este se lo usa cuando ya se sabe cuando termina el ciclo y se usa un contador obligatorio
+para que el programa se repita.
+
+<img width="334" height="387" alt="image" src="https://github.com/user-attachments/assets/9a281410-be91-40da-8473-ea9cc4463ff0" />
+
+
 ## Tareas entregadas
 
 **Estructuras algorítmicas de control** 
