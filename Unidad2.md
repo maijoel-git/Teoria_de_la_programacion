@@ -29,3 +29,12 @@ https://drive.google.com/file/d/1WrXCgcP6PiYKXy_RlUkRLVPUpEwloZpR/view?usp=shari
 
 **Aplicación de estructuras repetitivas en la resolución de problemas**
 https://drive.google.com/file/d/1GWZkQNKZoJTm3FA6U9F9OVpyFQpPGlIK/view?usp=drive_link
+
+**Diferencias entre los tipos de estructuras condicionales**
+
+https://drive.google.com/file/d/15w5GcAcWSvdOGk61vH3nuZT9iifkiQL7/view?usp=drive_link 
+
+**Cuadro comparativo entre las estructuras repetitivas**
+
+https://drive.google.com/file/d/1BLc2ScbXDQAEMBVbHfUanvc9h1nDjjiA/view?usp=drive_link
+
