@@ -6,3 +6,6 @@ programa  es  sumamente largo  y  lo  que se hace es hacer subprogramas  mas  pe
 a la  ves que estos modulos reciben el nombre de: procesos, rutinas, sub rutinas, etc.
 
 
+### Arreglos (teoría y un ejemplo para cada tipo de arreglo)
+Los arreglos son elementos que ofrecen una mejor estructura en el codigo y la facilidad
+de acceder a los elementos 
