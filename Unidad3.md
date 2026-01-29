@@ -40,3 +40,9 @@ Cuando tenemos varias filas y columnas con una profundidad.
 Un ejemplo es el siguiente donde este tiene una pequeña profundidad
 
 <img width="387" height="495" alt="image" src="https://github.com/user-attachments/assets/c61c7849-9cba-4b2f-b87b-0ee5a9e02778" />
+
+### Principales dificultades en la aplicación de los contenidos
+
+Tuve la dificultad de aveces equivocarme en la diferencia de la funcion por valor y la de referencia pero con los ejercicios
+que he estado haciendo los he entendido mejor para hacer programas y a al vez que eme ayuda a hacer el proyecto final de la materia
+
