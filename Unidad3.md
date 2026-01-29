@@ -3,7 +3,7 @@
 ### 🧩 Modularidad (teoría y un ejemplo con pase de marametro por valor y uno por referencia)
 La modularida se define como la divicion del programa esto se hace cuando el codigo del programa es sumamente largo y lo que se hace es hacer subprogramas mas pequeños, a la ves que estos modulos reciben el nombre de: procesos, rutinas, sub rutinas, etc.
 
-####📥 Por Valor
+#### 📥 Por Valor
 Este se envia una variable la cual se utilizara en la funcion con sus respectivas instrucciones, pero la variable original no se altera.
 
 En el siguiente ejemplo se veo como se inicia una variable que es usada en una suma simple pero no se altera al final la variable original.
