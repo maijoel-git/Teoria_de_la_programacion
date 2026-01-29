@@ -42,6 +42,24 @@ Análisis de distintos paradigmas de programación y desarrollo de proyectos pr�
 
  [2] J. E. Guerra Salazar, M. V. Ramos Valencia y G. E. Vallejo Vallejo, Programando en C desde la práctica problemas resueltos. Puerto Madero Editorial, 2023. [En línea]. Disponible: https://dialnet.unirioja.es/servlet/libro?codigo=933288
 
- 
+### 🤖 Declaración de uso de la IA
+<div align="justify"> En el desarrollo de esta unidad y la organización de este portafolio, se utilizó la inteligencia artificial <b>Gemini</b> como herramienta de apoyo técnico y creativo. El uso de la IA se centró específicamente en las siguientes áreas: </div>
+
+#### 🎨 Diseño Visual y Estructura: 
+Asistencia en la selección e integración de iconos descriptivos que guardan relación directa con los conceptos técnicos(Modularidad, Arreglos, etc.).
+
+#### 📐 Formateo de Contenido: 
+Aplicación de etiquetas HTML para el justificado de texto y la organización jerárquica de los subtítulos, asegurando una visualización profesional en la interfaz de GitHub.
+
+#### 📚 Normalización Bibliográfica:
+Conversión de fuentes de consulta al formato estándar <b>IEEE</b> para cumplir con los requisitos académicos de citación.
+
+#### ✍️ Redacción de Reflexiones:
+Apoyo en la síntesis de ideas para la creación de una reflexión final que conecta los conocimientos adquiridos en las tres unidades del ciclo.
+
+<div align="justify"> Es importante destacar que el <b>contenido técnico, los ejemplos de código y las experiencias de aprendizaje</b> son de autoría propia, utilizando la IA como un colaborador para mejorar la presentación y claridad de la información. </div>
+
+#### 🛠️ Herramientas utilizadas:
+Gemini (Google AI): Edición de texto, formato y bibliografía. 
 
  
