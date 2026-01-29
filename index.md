@@ -29,4 +29,7 @@ Análisis de distintos paradigmas de programación y desarrollo de proyectos pr�
 <div align="justify"> La llegada a la <b>Unidad 3</b> marcó un punto de inflexión con la <b>programación modular</b>. Entender que un problema grande puede dividirse en pequeñas subrutinas no solo facilita la lectura del código, sino que también optimiza el trabajo en equipo y el mantenimiento del software. El aprendizaje sobre el <b>pasaje de parámetros</b> (por valor y referencia) fue clave para ganar control sobre cómo los datos fluyen y se transforman dentro de un sistema. </div>
 
 <div align="justify"> Finalmente, el estudio de las <b>estructuras de datos estáticas (arreglos)</b> me ha permitido visualizar cómo gestionar grandes volúmenes de información de manera ordenada. Aunque temas como los arreglos tridimensionales aún representan un reto técnico, la práctica constante me ha demostrado que la programación no se trata solo de escribir líneas de código, sino de diseñar soluciones lógicas y escalables que serán fundamentales para mi <b>proyecto final</b> y mi formación profesional. </div>
-### 📚 Referencias 
+
+ ### 📚 Referencias 
+
+ 
