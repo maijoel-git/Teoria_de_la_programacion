@@ -1,10 +1,10 @@
 # 📑 Unidad 3: Programación Modular y Estructuras de Datos Estáticas
 ## 📂 Contenido de la Unidad
 ### 🧩 Modularidad (teoría y un ejemplo con pase de marametro por valor y uno por referencia)
-<div align="justify"> La modularida se define como la divicion del programa esto se hace cuando el codigo del programa es sumamente largo y lo que se hace es hacer subprogramas mas pequeños, a la ves que estos modulos reciben el nombre de: procesos, rutinas, sub rutinas, etc. </div>
+<div align="justify"> La modularida se define como la divicion del programa esto se hace cuando el codigo del programa es sumamente largo y lo que se hace es hacer subprogramas mas pequeños, a la ves que estos modulos reciben el nombre de: procesos, rutinas, sub rutinas, etc[1]. </div>
 
 #### 📥 Por Valor
-<div align="justify"> Este se envia una variable la cual se utilizara en la funcion con sus respectivas instrucciones, pero la variable original no se altera. En el siguiente ejemplo se veo como se inicia una variable que es usada en una suma simple pero no se altera al final la variable original. </div>
+<div align="justify"> Este se envia una variable la cual se utilizara en la funcion con sus respectivas instrucciones, pero la variable original no se altera. En el siguiente ejemplo se veo como se inicia una variable que es usada en una suma simple pero no se altera al final la variable original[1]. </div>
 
 <img width="540" height="365" alt="image" src="https://github.com/user-attachments/assets/807c9b81-7251-4266-a081-240961ec97c0" />
 
@@ -14,7 +14,7 @@
 <img width="475" height="340" alt="image" src="https://github.com/user-attachments/assets/80253166-7aac-4b28-824a-56e335e2c483" />
 
 ### 🗃️ Arreglos (teoría y un ejemplo para cada tipo de arreglo)
-<div align="justify"> Los arreglos son elementos que ofrecen una mejor estructura en el codigo y la facilidad de acceder a los elementos. </div>
+<div align="justify"> Los arreglos son elementos que ofrecen una mejor estructura en el codigo y la facilidad de acceder a los elementos[2]. </div>
 
 #### 📏 Arreglos Unidimensinales
 <div align="justify"> Estas solo tiene una fila y columnas que se pueden llamar vectores o listas. Un ejemplo de esto seria al intentar saber la nota en la posicion que queremos saber. </div>
