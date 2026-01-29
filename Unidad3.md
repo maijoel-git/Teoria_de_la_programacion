@@ -37,13 +37,13 @@
 ### 💡 Reflexión crítica de los aprendizajes de la unidad
 <div align="justify"> Me falta aun pulir los temas de arreglos ya que aun se me dificulta pero haciendo ejercicios se podra comprender mejor en concepto y saber como usarlo en los programas los cuales requieran con los conocimientos aprendidos de esta unidad. </div>
 
-##📑 Tareas entregadas
-###💻 APE
+## 📑 Tareas entregadas
+### 💻 APE
 #### Construcción de funciones y procedimientos en un lenguaje de programación 
 https://drive.google.com/file/d/1IVUy4MR_QseYH3rwwPUXODODizVDtGuN/view?usp=sharing
 
-###✍️ AA
+### ✍️ AA
 #### Curso de Python 
 https://drive.google.com/file/d/1MaeKHvT_WR6CDmPwlUifCm-5ZE7bgXE_/view?usp=sharing
 
-🏠 Regresar al inicio
+🏠 (Regresar al inicio[index.md])
