@@ -30,6 +30,18 @@ Análisis de distintos paradigmas de programación y desarrollo de proyectos pr�
 
 <div align="justify"> Finalmente, el estudio de las <b>estructuras de datos estáticas (arreglos)</b> me ha permitido visualizar cómo gestionar grandes volúmenes de información de manera ordenada. Aunque temas como los arreglos tridimensionales aún representan un reto técnico, la práctica constante me ha demostrado que la programación no se trata solo de escribir líneas de código, sino de diseñar soluciones lógicas y escalables que serán fundamentales para mi <b>proyecto final</b> y mi formación profesional. </div>
 
- ### 📚 Referencias 
+ ### 📚 Referencias
+ #### Unidad 1
+ #### Unidad 2
+ 
+ [1] Universidad Tecnológica de Chile (INACAP), Algoritmos y estructuras de datos, Santiago, Chile, 2021.
+
+ #### Unidad 3
+
+ [1] M. Goin, Caminando junto al Lenguaje C. Viedma, Argentina: Editorial UNRN, 2022. [En línea]. Disponible: https://editorial.unrn.edu.ar/index.php/catalogo/346/view_bl/62/lecturas-de-catedra/26/caminando-junto-al-lenguaje-c
+
+ [2] J. E. Guerra Salazar, M. V. Ramos Valencia y G. E. Vallejo Vallejo, Programando en C desde la práctica problemas resueltos. Puerto Madero Editorial, 2023. [En línea]. Disponible: https://dialnet.unirioja.es/servlet/libro?codigo=933288
+
+ 
 
  
