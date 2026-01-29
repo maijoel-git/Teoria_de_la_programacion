@@ -55,3 +55,8 @@ y saber como usarlo en los programas los cuales requieran con los conocimientos 
 ### APE 
 #### Construcción de funciones y procedimientos en un lenguaje de programación
 https://drive.google.com/file/d/1IVUy4MR_QseYH3rwwPUXODODizVDtGuN/view?usp=sharing 
+
+### AA
+#### Curso de Python
+
+https://drive.google.com/file/d/1MaeKHvT_WR6CDmPwlUifCm-5ZE7bgXE_/view?usp=sharing 
