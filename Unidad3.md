@@ -41,22 +41,22 @@ Un ejemplo es el siguiente donde este tiene una pequeña profundidad
 
 <img width="387" height="495" alt="image" src="https://github.com/user-attachments/assets/c61c7849-9cba-4b2f-b87b-0ee5a9e02778" />
 
-### Principales dificultades en la aplicación de los contenidos
+### 🚨 Principales dificultades en la aplicación de los contenidos
 
 Tuve la dificultad de aveces equivocarme en la diferencia de la funcion por valor y la de referencia pero con los ejercicios
 que he estado haciendo los he entendido mejor para hacer programas y a al vez que eme ayuda a hacer el proyecto final de la materia.
 
-### Reflexión crítica de los aprendizajes de la unidad
+### 💡 Reflexión crítica de los aprendizajes de la unidad
 Me falta aun pulir los temas de arreglos ya que aun se me dificulta pero haciendo ejercicios se podra comprender mejor en concepto 
 y saber como usarlo en los programas los cuales requieran con los conocimientos aprendidos de esta unidad.
 
-## Tareas entregadas
+## 📑 Tareas entregadas
 
-### APE 
+### 💻 APE 
 #### Construcción de funciones y procedimientos en un lenguaje de programación
 https://drive.google.com/file/d/1IVUy4MR_QseYH3rwwPUXODODizVDtGuN/view?usp=sharing 
 
-### AA
+### ✍️ AA
 #### Curso de Python
 
 https://drive.google.com/file/d/1MaeKHvT_WR6CDmPwlUifCm-5ZE7bgXE_/view?usp=sharing 
