@@ -44,5 +44,14 @@ Un ejemplo es el siguiente donde este tiene una pequeña profundidad
 ### Principales dificultades en la aplicación de los contenidos
 
 Tuve la dificultad de aveces equivocarme en la diferencia de la funcion por valor y la de referencia pero con los ejercicios
-que he estado haciendo los he entendido mejor para hacer programas y a al vez que eme ayuda a hacer el proyecto final de la materia
+que he estado haciendo los he entendido mejor para hacer programas y a al vez que eme ayuda a hacer el proyecto final de la materia.
 
+### Reflexión crítica de los aprendizajes de la unidad
+Me falta aun pulir los temas de arreglos ya que aun se me dificulta pero haciendo ejercicios se podra comprender mejor en concepto 
+y saber como usarlo en los programas los cuales requieran con los conocimientos aprendidos de esta unidad.
+
+## Tareas entregadas
+
+### APE 
+#### Construcción de funciones y procedimientos en un lenguaje de programación
+https://drive.google.com/file/d/1IVUy4MR_QseYH3rwwPUXODODizVDtGuN/view?usp=sharing
