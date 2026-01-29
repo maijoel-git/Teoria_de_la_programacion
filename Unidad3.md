@@ -25,5 +25,30 @@ En este ejemplo de una suma simple donde el valor inicial es 5 y despues de la f
 
 ### Arreglos (teoría y un ejemplo para cada tipo de arreglo)
 Los arreglos son elementos que ofrecen una mejor estructura en el codigo y la facilidad
-de acceder a los elementos 
+de acceder a los elementos.
+
+#### Arreglos Unidimensinales
+
+Estas solo tiene una fila y columnas que se pueden llamar vectores o listas.
+
+un ejemplo de esto seria al intentar saber la nota en la posicion que queremos saber.
+
+<img width="452" height="272" alt="image" src="https://github.com/user-attachments/assets/2f3d890a-e1fd-441b-b6d3-5865c23ea2b3" />
+
+#### Arreglos Bidimensionales
+
+Es cuando tienen varias filas y columnas y a estas se las denomina como maitriz.
+
+En este ejemplo hicimos una pequeña tabla que tiene 2 filas y 3 columnas.
+
+<img width="423" height="401" alt="image" src="https://github.com/user-attachments/assets/68ba3585-3a49-4d78-99c6-786359e5b9a3" />
+
+#### Arreglos Tridimesionales
+
+Cuando tenemos varias filas y columnas con una profundidad.
+
+Un ejemplo es el siguiente donde este tiene una pequeña profundidad
+
+<img width="387" height="495" alt="image" src="https://github.com/user-attachments/assets/c61c7849-9cba-4b2f-b87b-0ee5a9e02778" />
+
 
