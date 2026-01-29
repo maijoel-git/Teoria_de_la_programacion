@@ -20,6 +20,8 @@ Diseño de programas con funciones, procedimientos y modularización del código
 ### 🧠 Unidad 3 Paradigmas y Aplicaciones  
 Análisis de distintos paradigmas de programación y desarrollo de proyectos prácticos.
 
+[Ir a la Unidad 3](Unidad3.md)
+
 ### 🧾 Conclusiones  
 
 ### 📚 Referencias 
